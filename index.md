@@ -7,3 +7,12 @@
 
 ## Step 2: Add an image
 ![image of yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Step 3: Add a code example
+``` java
+public class HelloWorld {
+  public static void main(String args[]) {
+    System.out.println("Hello World!");
+  }
+}
+```
